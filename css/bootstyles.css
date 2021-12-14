@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(253, 135, 135);
+}
+.header {
+    font-size: 60px;
+    z-index: 1;
+}
+.link {
+    font-size: 50px;
+    bottom: 600px;
+    text-align: center;
+}
+.footer {
+    font-size: 20;
+    text-align: center;
+}
+.navigation {
+    font-size: 23px;
+    
+}
+.tab1 {
+    left: 50px;
+    width: 700px;
+    top: 500px;
+}
+.tab2 {
+    left: 1000px;
+    width: 700px;
+    top: 0px;
+}
+.tab3 {
+    bottom: 5px;
+    left: 5px;
+    width: 850px;
+}
+.tab4 {
+    bottom: 600px;
+    left: 1000px;
+    width: 850px;
+}
+.background {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 2000px;
+    z-index: 6;
+}

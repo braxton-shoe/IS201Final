@@ -1,0 +1,25 @@
+.title {
+    font-weight: bold;
+    font-size: 30px;
+}
+.subtitle {
+    font-weight: normal;
+    font-size: 25px;
+    font-style: italic;
+}
+ul {
+    font-weight: normal;
+    font-size: 20px;
+}
+.homepagetext {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+.insta {
+    font-size: 25px;
+    color: blue;
+}
+.homepagetitle {
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
